@@ -1,3 +1,5 @@
+package unit4_9_2;
+
 public class Primate extends Animal
 {
     public void forage()
